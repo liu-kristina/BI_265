@@ -1,0 +1,900 @@
+DATA DESCRIPTOR FILE
+version: 6.1
+object type: MR Spectroscopy
+patient id: b2982
+patient name: b2982
+patient code: 
+date of birth: 11/27/1972
+sex: 
+study id: 0
+study code: 
+study date: 06/03/2011
+accession number: t7521
+root name: t7521_fb_2
+series number: 11
+series description: 	 OCT Lactate Edit Long Echo Flyback
+comment: 
+patient entry: head first
+patient position: supine
+orientation: axial
+data type: floating point
+number of components: 2
+source description: 
+number of dimensions: 4
+dimension 1: type: frequency npoints: 1024 
+dimension 2: type: space npoints: 16 pixel spacing(mm): 10.000000
+dimension 3: type: space npoints: 16 pixel spacing(mm): 10.000000
+dimension 4: type: space npoints: 16 pixel spacing(mm): 10.000000
+center(lps, mm):        3.25703     -16.47270      44.78630
+toplc(lps, mm):       -71.74297     -91.47270     119.78630
+dcos0:        1.00000       0.00000       0.00000
+dcos1:        0.00000       1.00000       0.00000
+dcos2:        0.00000       0.00000      -1.00000
+===================================================
+MR Parameters
+coil name: 8HRBRAIN
+slice gap(mm): 0.000000
+echo time(ms): 144.000000
+repetition time(ms): 1134.000000
+inversion time(ms): 
+flip angle: 90.000000
+pulse sequence name: prose_ozh
+transmitter frequency(MHz): 127.763229
+isotope: 1H
+field strength(T): 3.000000
+number of sat bands: 16
+sat band 1 thickness(mm): 42.099972
+sat band 1 orientation:               0.99824      -0.00298      -0.05922
+sat band 1 position(lps, mm):       -72.61580       0.21671       4.30773
+sat band 2 thickness(mm): 42.099998
+sat band 2 orientation:               0.00000       0.00000      -1.00000
+sat band 2 position(lps, mm):        -0.00000      -0.00000      86.41380
+sat band 3 thickness(mm): 41.000011
+sat band 3 orientation:               0.00000      -0.98906      -0.14752
+sat band 3 position(lps, mm):        -0.00000      52.63330       7.85065
+sat band 4 thickness(mm): 41.000011
+sat band 4 orientation:               0.00000       0.96951      -0.24507
+sat band 4 position(lps, mm):        -0.00000     -97.65020      24.68420
+sat band 5 thickness(mm): 43.299980
+sat band 5 orientation:              -0.96404      -0.23686      -0.12048
+sat band 5 position(lps, mm):        65.59710      16.11680       8.19812
+sat band 6 thickness(mm): 42.099983
+sat band 6 orientation:              -0.88332       0.45351      -0.11865
+sat band 6 position(lps, mm):        75.21050     -38.61420      10.10270
+sat band 7 thickness(mm): 40.000000
+sat band 7 orientation:              -0.00000      -0.00000      -1.00000
+sat band 7 position(lps, mm):         0.00000       0.00000       4.78630
+sat band 8 thickness(mm): 40.000000
+sat band 8 orientation:              -0.00000      -0.00000      -1.00000
+sat band 8 position(lps, mm):         0.00003       0.00000      84.78630
+sat band 9 thickness(mm): 40.000000
+sat band 9 orientation:               0.00000       1.00000       0.00000
+sat band 9 position(lps, mm):         0.00001      43.65300       0.00001
+sat band 10 thickness(mm): 40.000000
+sat band 10 orientation:               0.00000       1.00000       0.00000
+sat band 10 position(lps, mm):        -0.00003     -86.59840      -0.00003
+sat band 11 thickness(mm): 40.000000
+sat band 11 orientation:               1.00000       0.00000       0.00000
+sat band 11 position(lps, mm):        63.96818       0.00000       0.00002
+sat band 12 thickness(mm): 40.000000
+sat band 12 orientation:               1.00000       0.00000       0.00000
+sat band 12 position(lps, mm):       -67.45412      -0.00000      -0.00002
+sat band 13 thickness(mm): 40.000000
+sat band 13 orientation:               0.70253       0.71165       0.00000
+sat band 13 position(lps, mm):        34.36302      34.80883       0.00002
+sat band 14 thickness(mm): 40.000000
+sat band 14 orientation:               0.70253       0.71165       0.00000
+sat band 14 position(lps, mm):       -57.55444     -58.30112      -0.00003
+sat band 15 thickness(mm): 40.000000
+sat band 15 orientation:              -0.70254       0.71165       0.00000
+sat band 15 position(lps, mm):       -36.08353      36.55164       0.00002
+sat band 16 thickness(mm): 40.000000
+sat band 16 orientation:              -0.70254       0.71165       0.00000
+sat band 16 position(lps, mm):        55.83396     -56.55828      -0.00003
+===================================================
+Spectroscopy Parameters
+localization type: PRESS
+center frequency(MHz): 127.763229
+ppm reference: 2.639074
+sweepwidth(Hz): 988.130432
+dwelltime(ms): 1.012012
+frequency offset(Hz): 255.000000
+centered on water: no
+suppression technique: 
+residual water: 
+number of acquisitions: 1
+chop: no
+even symmetry: yes
+data reordered: 
+acq. toplc(lps, mm):      -76.74300     -96.47270      44.78630
+acq. spacing(mm):          10.00000      10.00000      10.00000
+acq. number of data points: 16384
+acq. number of points: 16 16 1
+acq. dcos1:        1.00000       0.00000       0.00000
+acq. dcos2:        0.00000       1.00000       0.00000
+acq. dcos3:        0.00000       0.00000      -1.00000
+selection center(lps, mm):       -1.74297     -21.47270      44.78630
+selection size(mm):              91.42230      90.25140      40.00000
+selection dcos1:        1.00000       0.00000       0.00000
+selection dcos2:        0.00000       1.00000       0.00000
+selection dcos3:        0.00000       0.00000      -1.00000
+reordered toplc(lps, mm):       -76.74297     -96.47270     119.78630
+reordered center(lps, mm):       -1.74297     -21.47270      44.78630
+reordered spacing(mm):           10.00000      10.00000      10.00000
+reordered number of points: 16 16 16
+reordered dcos1:        1.00000       0.00000       0.00000
+reordered dcos2:        0.00000       1.00000       0.00000
+reordered dcos3:        0.00000       0.00000      -1.00000
+===================================================
+
+SUM OF MULTIPLE FILES
+
+weight by square root of sum of squares of weight factors
+
+file:  1  name: t7521_fb_1_phased_sum_cp.cmplx
+file:  2  name: t7521_fb_2_phased_sum_cp.cmplx
+file:  3  name: t7521_fb_3_phased_sum_cp.cmplx
+file:  4  name: t7521_fb_4_phased_sum_cp.cmplx
+file:  5  name: t7521_fb_5_phased_sum_cp.cmplx
+file:  6  name: t7521_fb_6_phased_sum_cp.cmplx
+file:  7  name: t7521_fb_7_phased_sum_cp.cmplx
+file:  8  name: t7521_fb_8_phased_sum_cp.cmplx
+DATA DESCRIPTOR FILE
+version: 6.1
+object type: MR Spectroscopy
+patient id: b2982              
+patient name: b2982                                                          
+patient code: 
+date of birth: 11/27/1972
+sex: 
+study id: 0
+study code: 
+study date: 06/03/2011
+accession number: t7521
+root name: t7521_fb_2                                                 
+series number: 11
+series description: 	 OCT Lactate Edit Long Echo Flyback
+comment:                                                                      
+patient entry: head first
+patient position: supine
+orientation: axial
+data type: floating point
+number of components: 2
+source description: 
+number of dimensions: 4
+dimension 1: type: frequency npoints: 1024 
+dimension 2: type: space npoints: 16 pixel spacing(mm): 10.000000
+dimension 3: type: space npoints: 16 pixel spacing(mm): 10.000000
+dimension 4: type: space npoints: 16 pixel spacing(mm): 10.000000
+center(lps, mm):        3.25703     -16.47270      44.78630
+toplc(lps, mm):       -71.74297     -91.47270     119.78630
+dcos0:        1.00000       0.00000       0.00000
+dcos1:        0.00000       1.00000       0.00000
+dcos2:        0.00000       0.00000      -1.00000
+MR Parameters
+coil name: 8HRBRAIN       
+slice gap(mm): 0.000000
+echo time(ms): 144.000000
+repetition time(ms): 1134.000000
+inversion time(ms): 
+flip angle: 90.000000
+pulse sequence name: prose_ozh      
+transmitter frequency(MHz): 127.763229
+isotope: 1H
+field strength(T): 3.000000
+number of sat bands: 16
+sat band 1 thickness(mm): 42.099972
+sat band 1 orientation:               0.99824      -0.00298      -0.05922
+sat band 1 position(lps, mm):       -72.61580       0.21671       4.30773
+sat band 2 thickness(mm): 42.099998
+sat band 2 orientation:               0.00000       0.00000      -1.00000
+sat band 2 position(lps, mm):        -0.00000      -0.00000      86.41380
+sat band 3 thickness(mm): 41.000011
+sat band 3 orientation:               0.00000      -0.98906      -0.14752
+sat band 3 position(lps, mm):        -0.00000      52.63330       7.85065
+sat band 4 thickness(mm): 41.000011
+sat band 4 orientation:               0.00000       0.96951      -0.24507
+sat band 4 position(lps, mm):        -0.00000     -97.65020      24.68420
+sat band 5 thickness(mm): 43.299980
+sat band 5 orientation:              -0.96404      -0.23686      -0.12048
+sat band 5 position(lps, mm):        65.59710      16.11680       8.19812
+sat band 6 thickness(mm): 42.099983
+sat band 6 orientation:              -0.88332       0.45351      -0.11865
+sat band 6 position(lps, mm):        75.21050     -38.61420      10.10270
+sat band 7 thickness(mm): 40.000000
+sat band 7 orientation:              -0.00000      -0.00000      -1.00000
+sat band 7 position(lps, mm):         0.00000       0.00000       4.78630
+sat band 8 thickness(mm): 40.000000
+sat band 8 orientation:              -0.00000      -0.00000      -1.00000
+sat band 8 position(lps, mm):         0.00003       0.00000      84.78630
+sat band 9 thickness(mm): 40.000000
+sat band 9 orientation:               0.00000       1.00000       0.00000
+sat band 9 position(lps, mm):         0.00001      43.65300       0.00001
+sat band 10 thickness(mm): 40.000000
+sat band 10 orientation:               0.00000       1.00000       0.00000
+sat band 10 position(lps, mm):        -0.00003     -86.59840      -0.00003
+sat band 11 thickness(mm): 40.000000
+sat band 11 orientation:               1.00000       0.00000       0.00000
+sat band 11 position(lps, mm):        63.96818       0.00000       0.00002
+sat band 12 thickness(mm): 40.000000
+sat band 12 orientation:               1.00000       0.00000       0.00000
+sat band 12 position(lps, mm):       -67.45412      -0.00000      -0.00002
+sat band 13 thickness(mm): 40.000000
+sat band 13 orientation:               0.70253       0.71165       0.00000
+sat band 13 position(lps, mm):        34.36302      34.80883       0.00002
+sat band 14 thickness(mm): 40.000000
+sat band 14 orientation:               0.70253       0.71165       0.00000
+sat band 14 position(lps, mm):       -57.55444     -58.30112      -0.00003
+sat band 15 thickness(mm): 40.000000
+sat band 15 orientation:              -0.70254       0.71165       0.00000
+sat band 15 position(lps, mm):       -36.08353      36.55164       0.00002
+sat band 16 thickness(mm): 40.000000
+sat band 16 orientation:              -0.70254       0.71165       0.00000
+sat band 16 position(lps, mm):        55.83396     -56.55828      -0.00003
+Spectroscopy Parameters
+localization type: PRESS
+center frequency(MHz): 127.763229
+ppm reference: 2.639074
+sweepwidth(Hz): 988.130432
+dwelltime(ms): 1.012012
+frequency offset(Hz): 255.000000
+centered on water: no
+suppression technique: 
+residual water: 
+number of acquisitions: 1
+chop: no
+even symmetry: yes
+data reordered: 
+acq. toplc(lps, mm):      -76.74300     -96.47270      44.78630
+acq. spacing(mm):          10.00000      10.00000      10.00000
+acq. number of data points: 16384
+acq. number of points: 16 16 1
+acq. dcos1:        1.00000       0.00000       0.00000
+acq. dcos2:        0.00000       1.00000       0.00000
+acq. dcos3:        0.00000       0.00000      -1.00000
+selection center(lps, mm):       -1.74297     -21.47270      44.78630
+selection size(mm):              91.42230      90.25140      40.00000
+selection dcos1:        1.00000       0.00000       0.00000
+selection dcos2:        0.00000       1.00000       0.00000
+selection dcos3:        0.00000       0.00000      -1.00000
+reordered toplc(lps, mm):       -76.74297     -96.47270     119.78630
+reordered center(lps, mm):       -1.74297     -21.47270      44.78630
+reordered spacing(mm):           10.00000      10.00000      10.00000
+reordered number of points: 16 16 16
+reordered dcos1:        1.00000       0.00000       0.00000
+reordered dcos2:        0.00000       1.00000       0.00000
+reordered dcos3:        0.00000       0.00000      -1.00000
+
+
+phase
+
+file:    1     phase:   -142.150     0.000   154.000
+DATA DESCRIPTOR FILE
+version: 6.1
+object type: MR Spectroscopy
+patient id: b2982              
+patient name: b2982                                                          
+patient code: 
+date of birth: 11/27/1972
+sex: 
+study id: 0
+study code: 
+study date: 06/03/2011
+accession number: t7521
+root name: t7521_fb_2                                                 
+series number: 11
+series description: 	 OCT Lactate Edit Long Echo Flyback
+comment:                                                                      
+patient entry: head first
+patient position: supine
+orientation: axial
+data type: floating point
+number of components: 2
+source description: 
+number of dimensions: 4
+dimension 1: type: frequency npoints: 1024 
+dimension 2: type: space npoints: 16 pixel spacing(mm): 10.000000
+dimension 3: type: space npoints: 16 pixel spacing(mm): 10.000000
+dimension 4: type: space npoints: 16 pixel spacing(mm): 10.000000
+center(lps, mm):        3.25703     -16.47270      44.78630
+toplc(lps, mm):       -71.74297     -91.47270     119.78630
+dcos0:        1.00000       0.00000       0.00000
+dcos1:        0.00000       1.00000       0.00000
+dcos2:        0.00000       0.00000      -1.00000
+MR Parameters
+coil name: 8HRBRAIN       
+slice gap(mm): 0.000000
+echo time(ms): 144.000000
+repetition time(ms): 1134.000000
+inversion time(ms): 
+flip angle: 90.000000
+pulse sequence name: prose_ozh      
+transmitter frequency(MHz): 127.763229
+isotope: 1H
+field strength(T): 3.000000
+number of sat bands: 16
+sat band 1 thickness(mm): 42.099972
+sat band 1 orientation:               0.99824      -0.00298      -0.05922
+sat band 1 position(lps, mm):       -72.61580       0.21671       4.30773
+sat band 2 thickness(mm): 42.099998
+sat band 2 orientation:               0.00000       0.00000      -1.00000
+sat band 2 position(lps, mm):        -0.00000      -0.00000      86.41380
+sat band 3 thickness(mm): 41.000011
+sat band 3 orientation:               0.00000      -0.98906      -0.14752
+sat band 3 position(lps, mm):        -0.00000      52.63330       7.85065
+sat band 4 thickness(mm): 41.000011
+sat band 4 orientation:               0.00000       0.96951      -0.24507
+sat band 4 position(lps, mm):        -0.00000     -97.65020      24.68420
+sat band 5 thickness(mm): 43.299980
+sat band 5 orientation:              -0.96404      -0.23686      -0.12048
+sat band 5 position(lps, mm):        65.59710      16.11680       8.19812
+sat band 6 thickness(mm): 42.099983
+sat band 6 orientation:              -0.88332       0.45351      -0.11865
+sat band 6 position(lps, mm):        75.21050     -38.61420      10.10270
+sat band 7 thickness(mm): 40.000000
+sat band 7 orientation:              -0.00000      -0.00000      -1.00000
+sat band 7 position(lps, mm):         0.00000       0.00000       4.78630
+sat band 8 thickness(mm): 40.000000
+sat band 8 orientation:              -0.00000      -0.00000      -1.00000
+sat band 8 position(lps, mm):         0.00003       0.00000      84.78630
+sat band 9 thickness(mm): 40.000000
+sat band 9 orientation:               0.00000       1.00000       0.00000
+sat band 9 position(lps, mm):         0.00001      43.65300       0.00001
+sat band 10 thickness(mm): 40.000000
+sat band 10 orientation:               0.00000       1.00000       0.00000
+sat band 10 position(lps, mm):        -0.00003     -86.59840      -0.00003
+sat band 11 thickness(mm): 40.000000
+sat band 11 orientation:               1.00000       0.00000       0.00000
+sat band 11 position(lps, mm):        63.96818       0.00000       0.00002
+sat band 12 thickness(mm): 40.000000
+sat band 12 orientation:               1.00000       0.00000       0.00000
+sat band 12 position(lps, mm):       -67.45412      -0.00000      -0.00002
+sat band 13 thickness(mm): 40.000000
+sat band 13 orientation:               0.70253       0.71165       0.00000
+sat band 13 position(lps, mm):        34.36302      34.80883       0.00002
+sat band 14 thickness(mm): 40.000000
+sat band 14 orientation:               0.70253       0.71165       0.00000
+sat band 14 position(lps, mm):       -57.55444     -58.30112      -0.00003
+sat band 15 thickness(mm): 40.000000
+sat band 15 orientation:              -0.70254       0.71165       0.00000
+sat band 15 position(lps, mm):       -36.08353      36.55164       0.00002
+sat band 16 thickness(mm): 40.000000
+sat band 16 orientation:              -0.70254       0.71165       0.00000
+sat band 16 position(lps, mm):        55.83396     -56.55828      -0.00003
+Spectroscopy Parameters
+localization type: PRESS
+center frequency(MHz): 127.763229
+ppm reference: 2.639074
+sweepwidth(Hz): 988.130432
+dwelltime(ms): 1.012012
+frequency offset(Hz): 255.000000
+centered on water: no
+suppression technique: 
+residual water: 
+number of acquisitions: 1
+chop: no
+even symmetry: yes
+data reordered: 
+acq. toplc(lps, mm):      -76.74300     -96.47270      44.78630
+acq. spacing(mm):          10.00000      10.00000      10.00000
+acq. number of data points: 16384
+acq. number of points: 16 16 1
+acq. dcos1:        1.00000       0.00000       0.00000
+acq. dcos2:        0.00000       1.00000       0.00000
+acq. dcos3:        0.00000       0.00000      -1.00000
+selection center(lps, mm):       -1.74297     -21.47270      44.78630
+selection size(mm):              91.42230      90.25140      40.00000
+selection dcos1:        1.00000       0.00000       0.00000
+selection dcos2:        0.00000       1.00000       0.00000
+selection dcos3:        0.00000       0.00000      -1.00000
+reordered toplc(lps, mm):       -76.74297     -96.47270     119.78630
+reordered center(lps, mm):       -1.74297     -21.47270      44.78630
+reordered spacing(mm):           10.00000      10.00000      10.00000
+reordered number of points: 16 16 16
+reordered dcos1:        1.00000       0.00000       0.00000
+reordered dcos2:        0.00000       1.00000       0.00000
+reordered dcos3:        0.00000       0.00000      -1.00000
+
+
+SUM OF MULTIPLE FILES
+
+file:    1     weight:      0.500
+name: t7521_fb_2_phased.cmplx                                                         
+
+file:    2     weight:      0.500
+name: t7521_fb_1_phased.cmplx                                                         
+DATA DESCRIPTOR FILE
+version: 6.1
+object type: MR Spectroscopy
+patient id: b2982              
+patient name: b2982                                                          
+patient code: 
+date of birth: 11/27/1972
+sex: 
+study id: 0
+study code: 
+study date: 06/03/2011
+accession number: t7521
+root name: t7521_fb_2                                                 
+series number: 11
+series description: 	 OCT Lactate Edit Long Echo Flyback
+comment:                                                                      
+patient entry: head first
+patient position: supine
+orientation: axial
+data type: floating point
+number of components: 2
+source description: 
+number of dimensions: 4
+dimension 1: type: frequency npoints: 1024 
+dimension 2: type: space npoints: 16 pixel spacing(mm): 10.000000
+dimension 3: type: space npoints: 16 pixel spacing(mm): 10.000000
+dimension 4: type: space npoints: 16 pixel spacing(mm): 10.000000
+center(lps, mm):        3.25703     -16.47270      44.78630
+toplc(lps, mm):       -71.74297     -91.47270     119.78630
+dcos0:        1.00000       0.00000       0.00000
+dcos1:        0.00000       1.00000       0.00000
+dcos2:        0.00000       0.00000      -1.00000
+MR Parameters
+coil name: 8HRBRAIN       
+slice gap(mm): 0.000000
+echo time(ms): 144.000000
+repetition time(ms): 1134.000000
+inversion time(ms): 
+flip angle: 90.000000
+pulse sequence name: prose_ozh      
+transmitter frequency(MHz): 127.763229
+isotope: 1H
+field strength(T): 3.000000
+number of sat bands: 16
+sat band 1 thickness(mm): 42.099972
+sat band 1 orientation:               0.99824      -0.00298      -0.05922
+sat band 1 position(lps, mm):       -72.61580       0.21671       4.30773
+sat band 2 thickness(mm): 42.099998
+sat band 2 orientation:               0.00000       0.00000      -1.00000
+sat band 2 position(lps, mm):        -0.00000      -0.00000      86.41380
+sat band 3 thickness(mm): 41.000011
+sat band 3 orientation:               0.00000      -0.98906      -0.14752
+sat band 3 position(lps, mm):        -0.00000      52.63330       7.85065
+sat band 4 thickness(mm): 41.000011
+sat band 4 orientation:               0.00000       0.96951      -0.24507
+sat band 4 position(lps, mm):        -0.00000     -97.65020      24.68420
+sat band 5 thickness(mm): 43.299980
+sat band 5 orientation:              -0.96404      -0.23686      -0.12048
+sat band 5 position(lps, mm):        65.59710      16.11680       8.19812
+sat band 6 thickness(mm): 42.099983
+sat band 6 orientation:              -0.88332       0.45351      -0.11865
+sat band 6 position(lps, mm):        75.21050     -38.61420      10.10270
+sat band 7 thickness(mm): 40.000000
+sat band 7 orientation:              -0.00000      -0.00000      -1.00000
+sat band 7 position(lps, mm):         0.00000       0.00000       4.78630
+sat band 8 thickness(mm): 40.000000
+sat band 8 orientation:              -0.00000      -0.00000      -1.00000
+sat band 8 position(lps, mm):         0.00003       0.00000      84.78630
+sat band 9 thickness(mm): 40.000000
+sat band 9 orientation:               0.00000       1.00000       0.00000
+sat band 9 position(lps, mm):         0.00001      43.65300       0.00001
+sat band 10 thickness(mm): 40.000000
+sat band 10 orientation:               0.00000       1.00000       0.00000
+sat band 10 position(lps, mm):        -0.00003     -86.59840      -0.00003
+sat band 11 thickness(mm): 40.000000
+sat band 11 orientation:               1.00000       0.00000       0.00000
+sat band 11 position(lps, mm):        63.96818       0.00000       0.00002
+sat band 12 thickness(mm): 40.000000
+sat band 12 orientation:               1.00000       0.00000       0.00000
+sat band 12 position(lps, mm):       -67.45412      -0.00000      -0.00002
+sat band 13 thickness(mm): 40.000000
+sat band 13 orientation:               0.70253       0.71165       0.00000
+sat band 13 position(lps, mm):        34.36302      34.80883       0.00002
+sat band 14 thickness(mm): 40.000000
+sat band 14 orientation:               0.70253       0.71165       0.00000
+sat band 14 position(lps, mm):       -57.55444     -58.30112      -0.00003
+sat band 15 thickness(mm): 40.000000
+sat band 15 orientation:              -0.70254       0.71165       0.00000
+sat band 15 position(lps, mm):       -36.08353      36.55164       0.00002
+sat band 16 thickness(mm): 40.000000
+sat band 16 orientation:              -0.70254       0.71165       0.00000
+sat band 16 position(lps, mm):        55.83396     -56.55828      -0.00003
+Spectroscopy Parameters
+localization type: PRESS
+center frequency(MHz): 127.763229
+ppm reference: 2.639074
+sweepwidth(Hz): 988.130432
+dwelltime(ms): 1.012012
+frequency offset(Hz): 255.000000
+centered on water: no
+suppression technique: 
+residual water: 
+number of acquisitions: 1
+chop: no
+even symmetry: yes
+data reordered: 
+acq. toplc(lps, mm):      -76.74300     -96.47270      44.78630
+acq. spacing(mm):          10.00000      10.00000      10.00000
+acq. number of data points: 16384
+acq. number of points: 16 16 1
+acq. dcos1:        1.00000       0.00000       0.00000
+acq. dcos2:        0.00000       1.00000       0.00000
+acq. dcos3:        0.00000       0.00000      -1.00000
+selection center(lps, mm):       -1.74297     -21.47270      44.78630
+selection size(mm):              91.42230      90.25140      40.00000
+selection dcos1:        1.00000       0.00000       0.00000
+selection dcos2:        0.00000       1.00000       0.00000
+selection dcos3:        0.00000       0.00000      -1.00000
+reordered toplc(lps, mm):       -76.74297     -96.47270     119.78630
+reordered center(lps, mm):       -1.74297     -21.47270      44.78630
+reordered spacing(mm):           10.00000      10.00000      10.00000
+reordered number of points: 16 16 16
+reordered dcos1:        1.00000       0.00000       0.00000
+reordered dcos2:        0.00000       1.00000       0.00000
+reordered dcos3:        0.00000       0.00000      -1.00000
+[process_spec]
+fftpars0.cfttype = nmr FID/echo, frequency reversed
+fftpars0.fttype = 1
+fftpars0.nzeroafter = 312
+fftpars0.nzerobefore = 0
+fftpars0.nzerodata = 0
+fftpars1.cfttype = kspace echo
+fftpars1.fttype = 3
+fftpars1.nzeroafter = 0
+fftpars1.nzerobefore = 0
+fftpars1.nzerodata = 0
+fftpars2.cfttype = kspace echo
+fftpars2.fttype = 3
+fftpars2.nzeroafter = 0
+fftpars2.nzerobefore = 0
+fftpars2.nzerodata = 0
+fftpars3.cfttype = kspace echo
+fftpars3.fttype = 3
+fftpars3.nzeroafter = 0
+fftpars3.nzerobefore = 0
+fftpars3.nzerodata = 0
+filtered = y
+filtpars0.cftype = lorentzian
+filtpars0.fpars0 = 4
+filtpars0.fpars1 = 0
+filtpars0.fpars2 = 0
+filtpars0.ftype = 2
+filtpars0.nfpars = 1
+filtpars1.cftype = none
+filtpars1.fpars0 = 0
+filtpars1.fpars1 = 0
+filtpars1.fpars2 = 0
+filtpars1.ftype = 0
+filtpars1.nfpars = 0
+filtpars2.cftype = none
+filtpars2.fpars0 = 0
+filtpars2.fpars1 = 0
+filtpars2.fpars2 = 0
+filtpars2.ftype = 0
+filtpars2.nfpars = 0
+filtpars3.cftype = none
+filtpars3.fpars0 = 0
+filtpars3.fpars1 = 0
+filtpars3.fpars2 = 0
+filtpars3.ftype = 0
+filtpars3.nfpars = 0
+fouriertransform = y
+fptphasecorrect = 
+freqcor.elim = 0
+freqcor.file = 
+freqcor.peakloc = 0
+freqcor.width = 0
+freqcorrect = n
+inputfile = 
+originshift = y
+output_type = 
+outputfile = t7521_fb_2_phased.cmplx
+phasecorrected = y
+phasepars.a0 = 0
+phasepars.a1 = 0
+phasepars.pivot = 669
+phfile = 
+phfiltpars0.cftype = lorentzian
+phfiltpars0.fpars0 = 4
+phfiltpars0.fpars1 = 0
+phfiltpars0.fpars2 = 0
+phfiltpars0.ftype = 2
+phfiltpars0.nfpars = 1
+phfiltpars1.cftype = none
+phfiltpars1.fpars0 = 0
+phfiltpars1.fpars1 = 0
+phfiltpars1.fpars2 = 0
+phfiltpars1.ftype = 0
+phfiltpars1.nfpars = 0
+phfiltpars2.cftype = none
+phfiltpars2.fpars0 = 0
+phfiltpars2.fpars1 = 0
+phfiltpars2.fpars2 = 0
+phfiltpars2.ftype = 0
+phfiltpars2.nfpars = 0
+phfiltpars3.cftype = none
+phfiltpars3.fpars0 = 0
+phfiltpars3.fpars1 = 0
+phfiltpars3.fpars2 = 0
+phfiltpars3.ftype = 0
+phfiltpars3.nfpars = 0
+program = process_spec_v6
+shiftpars0.kshift = 0
+shiftpars0.spacecent = 255
+shiftpars1.kshift = 0
+shiftpars1.spacecent = 3.25703
+shiftpars2.kshift = 0
+shiftpars2.spacecent = -16.4727
+shiftpars3.kshift = 0
+shiftpars3.spacecent = 44.7863
+specloc.col1 = 1
+specloc.col2 = 1024
+specsample = n
+
+DATA DESCRIPTOR FILE
+version: 6.1
+object type: MR Spectroscopy
+patient id: b2982              
+patient name: b2982                                                          
+patient code: 
+date of birth: 11/27/1972
+sex: 
+study id: 0
+study code: 
+study date: 06/03/2011
+accession number: t7521
+root name: t7521_fb_2                                                 
+series number: 11
+series description: 	 OCT Lactate Edit Long Echo Flyback
+comment:                                                                      
+patient entry: head first
+patient position: supine
+orientation: axial
+data type: floating point
+number of components: 2
+source description: 
+number of dimensions: 4
+dimension 1: type: time npoints: 712 
+dimension 2: type: k-space npoints: 16 pixel spacing(mm): 10.000000
+dimension 3: type: k-space npoints: 16 pixel spacing(mm): 10.000000
+dimension 4: type: epsi_flyback npoints: 16 pixel spacing(mm): 10.000000
+center(lps, mm):       -1.74297     -21.47270      44.78630
+toplc(lps, mm):       -76.74297     -96.47270     119.78630
+dcos0:        1.00000       0.00000       0.00000
+dcos1:        0.00000       1.00000       0.00000
+dcos2:        0.00000       0.00000      -1.00000
+MR Parameters
+coil name: 8HRBRAIN       
+slice gap(mm): 0.000000
+echo time(ms): 144.000000
+repetition time(ms): 1134.000000
+inversion time(ms): 
+flip angle: 90.000000
+pulse sequence name: prose_ozh      
+transmitter frequency(MHz): 127.763229
+isotope: 1H
+field strength(T): 3.000000
+number of sat bands: 16
+sat band 1 thickness(mm): 42.099972
+sat band 1 orientation:               0.99824      -0.00298      -0.05922
+sat band 1 position(lps, mm):       -72.61580       0.21671       4.30773
+sat band 2 thickness(mm): 42.099998
+sat band 2 orientation:               0.00000       0.00000      -1.00000
+sat band 2 position(lps, mm):        -0.00000      -0.00000      86.41380
+sat band 3 thickness(mm): 41.000011
+sat band 3 orientation:               0.00000      -0.98906      -0.14752
+sat band 3 position(lps, mm):        -0.00000      52.63330       7.85065
+sat band 4 thickness(mm): 41.000011
+sat band 4 orientation:               0.00000       0.96951      -0.24507
+sat band 4 position(lps, mm):        -0.00000     -97.65020      24.68420
+sat band 5 thickness(mm): 43.299980
+sat band 5 orientation:              -0.96404      -0.23686      -0.12048
+sat band 5 position(lps, mm):        65.59710      16.11680       8.19812
+sat band 6 thickness(mm): 42.099983
+sat band 6 orientation:              -0.88332       0.45351      -0.11865
+sat band 6 position(lps, mm):        75.21050     -38.61420      10.10270
+sat band 7 thickness(mm): 40.000000
+sat band 7 orientation:              -0.00000      -0.00000      -1.00000
+sat band 7 position(lps, mm):         0.00000       0.00000       4.78630
+sat band 8 thickness(mm): 40.000000
+sat band 8 orientation:              -0.00000      -0.00000      -1.00000
+sat band 8 position(lps, mm):         0.00003       0.00000      84.78630
+sat band 9 thickness(mm): 40.000000
+sat band 9 orientation:               0.00000       1.00000       0.00000
+sat band 9 position(lps, mm):         0.00001      43.65300       0.00001
+sat band 10 thickness(mm): 40.000000
+sat band 10 orientation:               0.00000       1.00000       0.00000
+sat band 10 position(lps, mm):        -0.00003     -86.59840      -0.00003
+sat band 11 thickness(mm): 40.000000
+sat band 11 orientation:               1.00000       0.00000       0.00000
+sat band 11 position(lps, mm):        63.96818       0.00000       0.00002
+sat band 12 thickness(mm): 40.000000
+sat band 12 orientation:               1.00000       0.00000       0.00000
+sat band 12 position(lps, mm):       -67.45412      -0.00000      -0.00002
+sat band 13 thickness(mm): 40.000000
+sat band 13 orientation:               0.70253       0.71165       0.00000
+sat band 13 position(lps, mm):        34.36302      34.80883       0.00002
+sat band 14 thickness(mm): 40.000000
+sat band 14 orientation:               0.70253       0.71165       0.00000
+sat band 14 position(lps, mm):       -57.55444     -58.30112      -0.00003
+sat band 15 thickness(mm): 40.000000
+sat band 15 orientation:              -0.70254       0.71165       0.00000
+sat band 15 position(lps, mm):       -36.08353      36.55164       0.00002
+sat band 16 thickness(mm): 40.000000
+sat band 16 orientation:              -0.70254       0.71165       0.00000
+sat band 16 position(lps, mm):        55.83396     -56.55828      -0.00003
+Spectroscopy Parameters
+localization type: PRESS
+center frequency(MHz): 127.763229
+ppm reference: 4.634953
+sweepwidth(Hz): 988.130432
+dwelltime(ms): 1.012012
+frequency offset(Hz): 0.000000
+centered on water: yes
+suppression technique: 
+residual water: 
+number of acquisitions: 1
+chop: no
+even symmetry: yes
+data reordered: 
+acq. toplc(lps, mm):      -76.74300     -96.47270      44.78630
+acq. spacing(mm):          10.00000      10.00000      10.00000
+acq. number of data points: 16384
+acq. number of points: 16 16 1
+acq. dcos1:        1.00000       0.00000       0.00000
+acq. dcos2:        0.00000       1.00000       0.00000
+acq. dcos3:        0.00000       0.00000      -1.00000
+selection center(lps, mm):       -1.74297     -21.47270      44.78630
+selection size(mm):              91.42230      90.25140      40.00000
+selection dcos1:        1.00000       0.00000       0.00000
+selection dcos2:        0.00000       1.00000       0.00000
+selection dcos3:        0.00000       0.00000      -1.00000
+reordered toplc(lps, mm):       -76.74297     -96.47270     119.78630
+reordered center(lps, mm):       -1.74297     -21.47270      44.78630
+reordered spacing(mm):           10.00000      10.00000      10.00000
+reordered number of points: 16 16 16
+reordered dcos1:        1.00000       0.00000       0.00000
+reordered dcos2:        0.00000       1.00000       0.00000
+reordered dcos3:        0.00000       0.00000      -1.00000
+
+
+EXTRACTED USING SAMPLE_EPSI_V6
+file: t7521_2.cmplx                                                                   
+nlobe,nfirst,nskip,iaxis,epsireverse;      712       1       7       3       1
+DATA DESCRIPTOR FILE
+version: 6.1
+object type: MR Spectroscopy
+patient id: b2982              
+patient name: b2982                                                          
+patient code: 
+date of birth: 11/27/1972
+sex: F
+study id: t7521
+study code: 
+study date: 06/03/2011
+accession number: t7521
+root name: t7521_2
+series number: 11
+series description: OCT Lactate Edit Long Echo Flyback
+comment:  
+patient entry: head first
+patient position: supine
+orientation: axial
+data type: floating point
+number of components: 2
+source description: 
+number of dimensions: 4
+dimension 1: type: time npoints: 16384
+dimension 2: type: k-space npoints: 16 pixel spacing(mm): 10.000000
+dimension 3: type: k-space npoints: 16 pixel spacing(mm): 10.000000
+dimension 4: type: k-space npoints: 1 pixel spacing(mm): 10.000000
+center(lps, mm):       -1.74297     -21.47270      44.78630
+toplc(lps, mm):       -76.74297     -96.47270      44.78630
+dcos0:        1.00000       0.00000       0.00000
+dcos1:        0.00000       1.00000       0.00000
+dcos2:        0.00000       0.00000      -1.00000
+MR Parameters
+coil name: 8HRBRAIN       
+slice gap(mm): 0.00000
+echo time(ms): 144.000000
+repetition time(ms): 1134.000000
+inversion time(ms): 
+flip angle: 90.000000
+pulse sequence name: prose_ozh      
+transmitter frequency(MHz): 127.763229
+isotope: 1H
+field strength(T): 3.000000
+number of sat bands: 16
+sat band 1 thickness(mm): 42.099972
+sat band 1 orientation:               0.99824      -0.00298      -0.05922
+sat band 1 position(lps, mm):       -72.61580       0.21671       4.30773
+sat band 2 thickness(mm): 42.099998
+sat band 2 orientation:               0.00000       0.00000      -1.00000
+sat band 2 position(lps, mm):        -0.00000      -0.00000      86.41380
+sat band 3 thickness(mm): 41.000011
+sat band 3 orientation:               0.00000      -0.98906      -0.14752
+sat band 3 position(lps, mm):        -0.00000      52.63330       7.85065
+sat band 4 thickness(mm): 41.000011
+sat band 4 orientation:               0.00000       0.96951      -0.24507
+sat band 4 position(lps, mm):        -0.00000     -97.65020      24.68420
+sat band 5 thickness(mm): 43.299980
+sat band 5 orientation:              -0.96404      -0.23686      -0.12048
+sat band 5 position(lps, mm):        65.59710      16.11680       8.19812
+sat band 6 thickness(mm): 42.099983
+sat band 6 orientation:              -0.88332       0.45351      -0.11865
+sat band 6 position(lps, mm):        75.21050     -38.61420      10.10270
+sat band 7 thickness(mm):     40.000000
+sat band 7 orientation:       -3.46410206619393e-07 -0 -0.99999999999994
+sat band 7 position(lps, mm): 1.6580231719424e-06 0 4.78629999999971
+sat band 8 thickness(mm):     40.000000
+sat band 8 orientation:       -3.46410206619393e-07 -0 -0.99999999999994
+sat band 8 position(lps, mm): 2.93708397014939e-05 0 84.7862999999949
+sat band 9 thickness(mm):     40.000000
+sat band 9 orientation:       3.26794896538121e-07 0.999999999999893 3.26794896538138e-07
+sat band 9 position(lps, mm): 1.42655776185786e-05 43.6529999999953 1.42655776185794e-05
+sat band 10 thickness(mm):     40.000000
+sat band 10 orientation:       3.26794896538121e-07 0.999999999999893 3.26794896538138e-07
+sat band 10 position(lps, mm): -2.82999151683668e-05 -86.5983999999907 -2.82999151683683e-05
+sat band 11 thickness(mm):     40.000000
+sat band 11 orientation:       0.999999999999947 0 3.26794896538138e-07
+sat band 11 position(lps, mm): 63.9681799999966 0 2.0904474764833e-05
+sat band 12 thickness(mm):     40.000000
+sat band 12 orientation:       0.999999999999947 0 3.26794896538138e-07
+sat band 12 position(lps, mm): -67.4541199999964 -0 -2.20436621664712e-05
+sat band 13 thickness(mm):     40.000000
+sat band 13 orientation:       0.702534939954865 0.711649252189944 3.26794896538138e-07
+sat band 13 position(lps, mm): 34.3630177518436 34.8088251491953 1.59844844609058e-05
+sat band 14 thickness(mm):     40.000000
+sat band 14 orientation:       0.702534939954865 0.711649252189944 3.26794896538138e-07
+sat band 14 position(lps, mm): -57.5544408067901 -58.3011213121926 -2.67723303982201e-05
+sat band 15 thickness(mm):     40.000000
+sat band 15 orientation:       -0.702535186477388 0.711649008824628 3.26794896538138e-07
+sat band 15 position(lps, mm): -36.0835342664459 36.5516373982105 1.67848032017583e-05
+sat band 16 thickness(mm):     40.000000
+sat band 16 orientation:       -0.702535186477388 0.711649008824628 3.26794896538138e-07
+sat band 16 position(lps, mm): 55.8339565464181 -56.5582772220259 -2.59720116573676e-05
+Spectroscopy Parameters
+localization type: PRESS
+center frequency(MHz): 127.763229
+ppm reference: 4.634953
+sweepwidth(Hz): 22727.000000
+dwelltime(ms): 0.044001
+frequency offset(Hz): 0.000000
+centered on water: yes
+suppression technique: 
+residual water:
+number of acquisitions: 1
+chop: no
+even symmetry: yes
+data reordered: 
+acq. toplc(lps, mm):      -76.74300     -96.47270      44.78630
+acq. spacing(mm):          10.00000      10.00000      10.00000
+acq. number of data points: 16384
+acq. number of points: 16 16 1
+acq. dcos1:        1.00000       0.00000       0.00000
+acq. dcos2:        0.00000       1.00000       0.00000
+acq. dcos3:        0.00000       0.00000      -1.00000
+selection center(lps, mm):       -1.74297     -21.47270      44.78630
+selection size(mm):              91.42230      90.25140      40.00000
+selection dcos1:        1.00000       0.00000       0.00000
+selection dcos2:        0.00000       1.00000       0.00000
+selection dcos3:        0.00000       0.00000      -1.00000
+reordered toplc(lps, mm):       -76.74300     -96.47270      44.78630
+reordered center(lps, mm):       -1.74297     -21.47270      44.78630
+reordered spacing(mm):           10.00000      10.00000      10.00000
+reordered number of points: 16 16 1
+reordered dcos1:        1.00000       0.00000       0.00000
+reordered dcos2:        0.00000       1.00000       0.00000
+reordered dcos3:        0.00000       0.00000      -1.00000
+<SVK_PROVENANCE>
+  <SVK_VERSION version="0.7.4" platform="NA"/>
+  <SVK_CMD_LINE cmd="svk_gepfile_reader.dev -i ../t7521 -o t7521 -t 2 --one_time_pt --deid_type 1 --deid_pat_id b2982 --deid_study_id t7521 "/>
+  <SVK_ALGORITHM algoName="svkGEPFileReader">
+    <SVK_ALGORITHM_ARG argName="MapperBehavior" argNumber="0" argValue="1"/>
+    <SVK_ALGORITHM_ARG argName="PHIType" argNumber="1" argValue="1"/>
+    <SVK_ALGORITHM_ARG argName="patientDeidentificationId" argNumber="2" argValue="b2982"/>
+    <SVK_ALGORITHM_ARG argName="studyDeidentificationId" argNumber="3" argValue="t7521"/>
+  </SVK_ALGORITHM>
+  <SVK_ALGORITHM algoName="svkCorrectDCOffset"/>
+  <SVK_ALGORITHM algoName="svkDdfVolumeWriter">
+    <SVK_ALGORITHM_ARG argName="OneTimePointPerFile" argNumber="0" argValue="1"/>
+  </SVK_ALGORITHM>
+</SVK_PROVENANCE>
+===================================================
+

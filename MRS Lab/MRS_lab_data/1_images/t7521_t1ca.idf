@@ -1,0 +1,57 @@
+IMAGE DESCRIPTOR FILE version 5
+studyid: t7521               
+study #:    10236
+series #:      15
+position: Head First, Supine  
+coil: 8HRBRAIN            
+orientation:  13     axial normal        
+echo/time/met index:     1     value:       1.00
+rootname: t7521_t1ca                                                  
+comment:  t7521 - POSTGAD AX-T1 3D IRSPGR w/ASSET - 06/03/2011                 
+filetype:   3     entry/pixel:  1     DICOM format images 
+dimension:  1     columns     itype:  1
+npix:   256   fov(mm):  240.00  center(mm):    0.00  pixelsize(mm):    0.93750
+dimension:  2     rows        itype:  2
+npix:   256   fov(mm):  240.00  center(mm):  -29.68  pixelsize(mm):    0.93750
+dimension:  3     slices      itype:  3
+npix:   120   fov(mm):  180.00  center(mm):  -27.01  pixelsize(mm):    1.50000
+slice thickness (mm):        1.50000
+minimum:    0.000         maximum:   0.3277E+05
+scale:    1.000    
+first slice read:  120   last slice read:    1   sliceskip:    1
+LOCATION DATA IN LPS COORDINATES
+center:        0.00025     -29.68275      27.01010
+toplc:      -119.53100    -149.21400     116.26010
+dcos1:         1.00000       0.00000       0.00000
+dcos2:         0.00000       1.00000       0.00000
+dcos3:         0.00000       0.00000      -1.00000
+
+RESAMPLED USING resample_image_v5
+INPUT IDF INFORMATION
+IMAGE DESCRIPTOR FILE version 5
+studyid: t7521               
+study #:    10236
+series #:      15
+position: Head First, Supine  
+coil: 8HRBRAIN            
+orientation:  13     axial normal        
+echo/time/met index:     1     value:       1.00
+rootname: t7521_t1c                                                   
+comment:  t7521 - POSTGAD AX-T1 3D IRSPGR w/ASSET - 06/03/2011                 
+filetype:   3     entry/pixel:  1     DICOM format images 
+dimension:  1     columns     itype:  1
+npix:   256   fov(mm):  240.00  center(mm):    0.00  pixelsize(mm):    0.93750
+dimension:  2     rows        itype:  2
+npix:   256   fov(mm):  240.00  center(mm):  -29.68  pixelsize(mm):    0.93750
+dimension:  3     slices      itype:  3
+npix:   120   fov(mm):  180.00  center(mm):  -27.01  pixelsize(mm):    1.50000
+slice thickness (mm):        1.50000
+minimum:    0.000         maximum:   0.6534E+05
+scale:    1.000    
+first slice read:  120   last slice read:    1   sliceskip:    1
+LOCATION DATA IN LPS COORDINATES
+center:        0.00025     -29.68275      27.01010
+toplc:      -119.53100    -149.21400     116.26010
+dcos1:         1.00000       0.00000       0.00000
+dcos2:         0.00000       1.00000       0.00000
+dcos3:         0.00000       0.00000      -1.00000
